@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.joshrcook.phonegap-test"
+        version   = "0.0.1">
+
+    <name>PhoneGap Example</name>
+
+    <description>
+        An example of a (hopefully) working phonegap app
+    </description>
+
+    <author href="https://www.joshrcook.com" email="extreemsilver14@netscape.net">
+        Joshua Cook
+    </author>
+
+    <!-- This means it is targeted for the iPad -->
+    <preference name="target-device" value="tablet" />
+
+</widget>
